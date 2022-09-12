@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is MinKwan
+My major is AI
+I'm Korean
+I like play sports
 <!--
 **gwan8151/gwan8151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
